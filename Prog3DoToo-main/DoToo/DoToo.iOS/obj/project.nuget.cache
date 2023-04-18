@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5NvCyZhEtptkJoLgCrQ2q5tm4geQ9yCauoNJdnldZxs4+ZlUt2Hu2AWEC7Zz/Nqy5nmpk8C44NoOegKax08Tkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\njayt\\Downloads\\Prog3DoToo-main (1)\\Prog3DoToo-main\\DoToo\\DoToo.iOS\\DoToo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\njayt\\.nuget\\packages\\autofac\\7.0.0\\autofac.7.0.0.nupkg.sha512",
+    "C:\\Users\\njayt\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\njayt\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\njayt\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\njayt\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
